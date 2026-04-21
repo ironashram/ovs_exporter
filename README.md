@@ -46,12 +46,12 @@ Download the latest release for your architecture:
 
 ```bash
 # Linux AMD64
-wget https://github.com/Liquescent-Development/ovs_exporter/releases/download/v2.6.0/ovs-exporter-2.6.0.linux-amd64.tar.gz
-tar xvzf ovs-exporter-2.6.0.linux-amd64.tar.gz
+wget https://github.com/Liquescent-Development/ovs_exporter/releases/download/v2.7.0/ovs-exporter-2.7.0.linux-amd64.tar.gz
+tar xvzf ovs-exporter-2.7.0.linux-amd64.tar.gz
 
 # Linux ARM64
-wget https://github.com/Liquescent-Development/ovs_exporter/releases/download/v2.6.0/ovs-exporter-2.6.0.linux-arm64.tar.gz
-tar xvzf ovs-exporter-2.6.0.linux-arm64.tar.gz
+wget https://github.com/Liquescent-Development/ovs_exporter/releases/download/v2.7.0/ovs-exporter-2.7.0.linux-arm64.tar.gz
+tar xvzf ovs-exporter-2.7.0.linux-arm64.tar.gz
 ```
 
 Install as a systemd service:
