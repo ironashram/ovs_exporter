@@ -22,4 +22,4 @@ require (
 	google.golang.org/protobuf v1.36.8 // indirect
 )
 
-replace github.com/greenpau/ovsdb => github.com/lucadelmonte/ovsdb v1.1.1
+replace github.com/greenpau/ovsdb => github.com/lucadelmonte/ovsdb v1.1.2
